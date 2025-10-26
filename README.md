@@ -91,8 +91,8 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd blogging-platform
+   git clone https://github.com/shubhamprasad318/Multi-User-Blogging-Platform
+   cd Multi-User-Blogging-Platform
    ```
 
 2. **Install dependencies**
